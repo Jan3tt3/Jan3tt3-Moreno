@@ -42,6 +42,7 @@ Soy una profesional apasionada por la tecnología, la enseñanza y el desarrollo
 
 ##  Proyectos
 - Artesanias Michoacán (https://github.com/Jan3tt3/artesanias-michoacan)
+- Hound Express (https://github.com/Jan3tt3/Hound-Express)
 
 ## Redes profesionales
 - LinkedIn: https://www.linkedin.com/in//janette-moreno-sandoval
